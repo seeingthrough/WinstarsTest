@@ -26,6 +26,9 @@
    jupyter notebook demo.ipynb
    ```
 
+## How to install NER model:
+1. Go to this website: https://huggingface.co/ukolchuga/WinstarsNER/tree/main, download .safetensors file and add it to Task 2/ner_classification/model folder
+
 ## Project Structure
 ```text
 ├── data/
