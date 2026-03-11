@@ -3,7 +3,7 @@
 ## This part combines two different fundamental approaches, computer vision, and natural language processing.
 ## The main goal is to identify animals in both images and text.
 
-1. **Image Classification Model** - ResNet-18 network, trained on a custom image dataset to classify categories of animals.
+1. **Image Classification Model** - ResNet-18 network, trained on a image dataset (https://www.kaggle.com/datasets/iamsouravbanerjee/animal-image-dataset-90-different-animals) to classify categories of animals.
 
 2. **NER Model** - a fine-tuned BERT trained on synthetic data to extract animals from text.
 
